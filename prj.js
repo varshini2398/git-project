@@ -12,4 +12,3 @@ console.log(b);
 let c = 30;
 console.log(c);
 
-
