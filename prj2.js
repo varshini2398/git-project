@@ -1,2 +1,2 @@
-this is project 2
-hello
+const a =10;
+console.log(a);
